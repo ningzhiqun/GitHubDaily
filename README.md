@@ -79,6 +79,7 @@
 
 名称 | 简述 | 源
 ---- | ----- | -----
+[fabric ](https://github.com/danielmiessler/fabric) | 视频、录音等生成文字，总结，摘要等功能
 [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | 一个可打造成企业内部知识库的私人专属 GPT！可以将任何文档、资源或内容转换为大语言模型（LLM）知识库，使得在对话过程中可引用到里面的内容。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NwDwQrO9Y)
 [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | 有获取 GPTs 的 Prompt、Knowledge 以及如何防护的教程，另外单独对破解官方 GPTs 的 Prompt 进行分类。 | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NvSp3wtRm)
 [GPTs](https://github.com/linexjlin/GPTs) | 收集了超级多被破解的 GPTs Prompt | [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://weibo.com/5722964389/NvSp3wtRm)
